@@ -1,5 +1,9 @@
+h1{
+    color: purple;
+}
+
 div {
     width: 300px;
     height: 300px;
     background-color: red;
-  }
+}
